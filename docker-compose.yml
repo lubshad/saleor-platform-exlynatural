@@ -1,8 +1,6 @@
 services:
   api:
     image: ghcr.io/saleor/saleor:3.23
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
     ports:
       - ${API_PORT:-8000}:8000
     restart: unless-stopped
@@ -38,8 +36,6 @@ services:
 
   worker:
     image: ghcr.io/saleor/saleor:3.23
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
     command: celery -A saleor --app=saleor.celeryconf:app worker --loglevel=info -B
     restart: unless-stopped
     networks:
