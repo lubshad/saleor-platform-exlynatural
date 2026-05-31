@@ -2,7 +2,7 @@ services:
   api:
     image: ghcr.io/saleor/saleor:3.23
     ports:
-      - 8000:8000
+      - ${API_PORT:-8000}:8000
     restart: unless-stopped
     networks:
       - saleor-backend-tier
@@ -23,13 +23,13 @@ services:
   dashboard:
     image: ghcr.io/saleor/saleor-dashboard:3.23
     ports:
-      - 9000:80
+      - ${DASHBOARD_PORT:-9000}:80
     restart: unless-stopped
 
   db:
     image: library/postgres:15-alpine
     ports:
-      - 5432:5432
+      - ${POSTGRES_PORT:-5432}:5432
     restart: unless-stopped
     networks:
       - saleor-backend-tier
@@ -43,7 +43,7 @@ services:
   cache:
     image: valkey/valkey:8.1-alpine
     ports:
-      - 6379:6379
+      - ${CACHE_PORT:-6379}:6379
     restart: unless-stopped
     networks:
       - saleor-backend-tier
@@ -69,9 +69,9 @@ services:
   jaeger:
     image: jaegertracing/jaeger
     ports:
-      - "16686:16686"
-      - "4317:4317"
-      - "4318:4318"
+      - "${JAEGER_UI_PORT:-16686}:16686"
+      - "${JAEGER_OTLP_GRPC_PORT:-4317}:4317"
+      - "${JAEGER_OTLP_HTTP_PORT:-4318}:4318"
     restart: unless-stopped
     networks:
       - saleor-backend-tier
@@ -82,8 +82,8 @@ services:
   mailpit:
     image: axllent/mailpit
     ports:
-      - 1025:1025 # smtp server
-      - 8025:8025 # web ui. Visit http://localhost:8025/ to check emails
+      - ${MAILPIT_SMTP_PORT:-1025}:1025 # smtp server
+      - ${MAILPIT_UI_PORT:-8025}:8025 # web ui. Visit http://localhost:${MAILPIT_UI_PORT:-8025}/ to check emails
     restart: unless-stopped
     networks:
       - saleor-backend-tier
