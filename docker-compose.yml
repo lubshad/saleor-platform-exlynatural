@@ -10,7 +10,6 @@ services:
     tty: true
     depends_on:
       - db
-      - cache
       - jaeger
     volumes:
       # shared volume between worker and api for media
@@ -20,11 +19,6 @@ services:
     env_file:
       - common.env
       - backend.env
-  dashboard:
-    image: ghcr.io/saleor/saleor-dashboard:3.23
-    ports:
-      - ${DASHBOARD_PORT:-9000}:80
-    restart: unless-stopped
 
   db:
     image: library/postgres:15-alpine
@@ -40,16 +34,6 @@ services:
       - POSTGRES_USER=saleor
       - POSTGRES_PASSWORD=saleor
 
-  cache:
-    image: valkey/valkey:8.1-alpine
-    ports:
-      - ${CACHE_PORT:-6379}:6379
-    restart: unless-stopped
-    networks:
-      - saleor-backend-tier
-    volumes:
-      - saleor-cache:/data
-
   worker:
     image: ghcr.io/saleor/saleor:3.23
     command: celery -A saleor --app=saleor.celeryconf:app worker --loglevel=info -B
@@ -60,7 +44,6 @@ services:
       - common.env
       - backend.env
     depends_on:
-      - cache
       - mailpit
     volumes:
       # shared volume between worker and api for media
