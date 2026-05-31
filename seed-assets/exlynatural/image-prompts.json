@@ -1,0 +1,444 @@
+{
+  "bay-leaf.png": {
+    "product": "Bay Leaf",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Bay Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "curry-leaf.png": {
+    "product": "Curry Leaf",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Curry Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "drumstick-leaf.png": {
+    "product": "Drumstick Leaf",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Drumstick Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "cinnamon-leaf.png": {
+    "product": "Cinnamon Leaf",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Cinnamon Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "sage-leaves.png": {
+    "product": "Sage Leaves",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Sage Leaves, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "mint-leaf.png": {
+    "product": "Mint Leaf",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Mint Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "black-pepper-leaf.png": {
+    "product": "Black Pepper Leaf",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Black Pepper Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "tulsi-leaf.png": {
+    "product": "Tulsi Leaf",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Tulsi Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "oregano-leaf.png": {
+    "product": "Oregano Leaf",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Oregano Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "hibiscus-leaf.png": {
+    "product": "Hibiscus Leaf",
+    "category": "Dry Leaves",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Hibiscus Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "hibiscus-flower.png": {
+    "product": "Hibiscus Flower",
+    "category": "Flowers",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Hibiscus Flower, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "drumstick.png": {
+    "product": "Drumstick",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Drumstick, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "ashwagandha.png": {
+    "product": "Ashwagandha",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Ashwagandha, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "watermelon-seeds.png": {
+    "product": "Watermelon Seeds",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Watermelon Seeds, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "pumpkin-seeds.png": {
+    "product": "Pumpkin Seeds",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Pumpkin Seeds, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "sunflower-seed-powder.png": {
+    "product": "Sunflower Seed Powder",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Sunflower Seed Powder, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "pomegranate-dry-powder.png": {
+    "product": "Pomegranate Dry Powder",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Pomegranate Dry Powder, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "guava-dry-powder.png": {
+    "product": "Guava Dry Powder",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Guava Dry Powder, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "mucuna-pruriens-powder.png": {
+    "product": "Mucuna Pruriens Powder",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Mucuna Pruriens Powder, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "velvet-bean.png": {
+    "product": "Velvet Bean",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Velvet Bean, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "chia-seeds.png": {
+    "product": "Chia Seeds",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Chia Seeds, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "flax-seeds.png": {
+    "product": "Flax Seeds",
+    "category": "Energy Products",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Flax Seeds, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "garlic.png": {
+    "product": "Garlic",
+    "category": "Dry Items",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Garlic, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "turmeric.png": {
+    "product": "Turmeric",
+    "category": "Dry Items",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Turmeric, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "ginger.png": {
+    "product": "Ginger",
+    "category": "Dry Items",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Ginger, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "jackfruit.png": {
+    "product": "Jackfruit",
+    "category": "Dry Items",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Jackfruit, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "banana-powder.png": {
+    "product": "Banana Powder",
+    "category": "Baby Foods",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Banana Powder, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "arrowroot-powder.png": {
+    "product": "Arrowroot Powder",
+    "category": "Baby Foods",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Arrowroot Powder, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "banana-health-mix-powder.png": {
+    "product": "Banana Health Mix Powder",
+    "category": "Baby Foods",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Banana Health Mix Powder, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "jackfruit-powder.png": {
+    "product": "Jackfruit Powder",
+    "category": "Baby Foods",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Jackfruit Powder, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "beetroot-powder.png": {
+    "product": "Beetroot Powder",
+    "category": "Natural Food Colours",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Beetroot Powder, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "marigold.png": {
+    "product": "Marigold",
+    "category": "Natural Food Colours",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Marigold, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "mission-grass.png": {
+    "product": "Mission Grass",
+    "category": "Natural Food Colours",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Mission Grass, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "drum-leaf.png": {
+    "product": "Drum Leaf",
+    "category": "Natural Food Colours",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Drum Leaf, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "clove-buds.png": {
+    "product": "Clove Buds",
+    "category": "Spices",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Clove Buds, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "nutmeg-mace.png": {
+    "product": "Nutmeg Mace",
+    "category": "Spices",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Nutmeg Mace, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "cinnamon.png": {
+    "product": "Cinnamon",
+    "category": "Spices",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Cinnamon, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "black-pepper.png": {
+    "product": "Black Pepper",
+    "category": "Spices",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Black Pepper, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "star-anise.png": {
+    "product": "Star Anise",
+    "category": "Spices",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Star Anise, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "cardamom.png": {
+    "product": "Cardamom",
+    "category": "Spices",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Cardamom, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "golden-berry.png": {
+    "product": "Golden Berry",
+    "category": "Spices",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Golden Berry, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "paprika.png": {
+    "product": "Paprika",
+    "category": "Spices",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-pouch-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Paprika, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank pouch base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "kodo-millet.png": {
+    "product": "Kodo Millet",
+    "category": "Millets & Grains",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Kodo Millet, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "foxtail-millet.png": {
+    "product": "Foxtail Millet",
+    "category": "Millets & Grains",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Foxtail Millet, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "bajra.png": {
+    "product": "Bajra",
+    "category": "Millets & Grains",
+    "image_type": "photorealistic packaged ecommerce mockup",
+    "base_image": "realistic-jar-base.png",
+    "prompt": "High-quality photorealistic white-studio ecommerce image for Bajra, as a temporary Exlynatural packaged product mockup. Uses an AI-generated blank jar base, locally composited Exlynatural label text, and tinted visible ingredient cues. No health claims, badges, watermark, or crowded props.",
+    "logo_source": "storefront-exlynatural/public/logo.svg",
+    "label_compositing": "Actual Exlynatural SVG logo rendered, cropped, transparency-keyed, and composited locally."
+  },
+  "collections": {
+    "featured-products.png": {
+      "image_type": "wide realistic ecommerce ingredient banner",
+      "collection_name": "Featured Products",
+      "dimensions": "1600x600",
+      "prompt": "High-quality realistic horizontal natural foods banner on a white/light-neutral studio surface, with clean ingredient photography arranged low and spacious. No product packaging, no stacked packshots, no text, no logo, no branding, no labels, no watermark, no badges, and no health claims.",
+      "generation_source": "Built-in image generation, then locally cropped and normalized to 1600x600 PNG."
+    },
+    "botanicals.png": {
+      "image_type": "wide realistic ecommerce ingredient banner",
+      "collection_name": "Botanicals",
+      "dimensions": "1600x600",
+      "prompt": "High-quality realistic horizontal natural foods banner on a white/light-neutral studio surface, with clean ingredient photography arranged low and spacious. No product packaging, no stacked packshots, no text, no logo, no branding, no labels, no watermark, no badges, and no health claims.",
+      "generation_source": "Built-in image generation, then locally cropped and normalized to 1600x600 PNG."
+    },
+    "seeds-powders.png": {
+      "image_type": "wide realistic ecommerce ingredient banner",
+      "collection_name": "Seeds & Powders",
+      "dimensions": "1600x600",
+      "prompt": "High-quality realistic horizontal natural foods banner on a white/light-neutral studio surface, with clean ingredient photography arranged low and spacious. No product packaging, no stacked packshots, no text, no logo, no branding, no labels, no watermark, no badges, and no health claims.",
+      "generation_source": "Built-in image generation, then locally cropped and normalized to 1600x600 PNG."
+    },
+    "kitchen-pantry.png": {
+      "image_type": "wide realistic ecommerce ingredient banner",
+      "collection_name": "Kitchen Pantry",
+      "dimensions": "1600x600",
+      "prompt": "High-quality realistic horizontal natural foods banner on a white/light-neutral studio surface, with clean ingredient photography arranged low and spacious. No product packaging, no stacked packshots, no text, no logo, no branding, no labels, no watermark, no badges, and no health claims.",
+      "generation_source": "Built-in image generation, then locally cropped and normalized to 1600x600 PNG."
+    },
+    "baby-foods.png": {
+      "image_type": "wide realistic ecommerce ingredient banner",
+      "collection_name": "Baby Foods",
+      "dimensions": "1600x600",
+      "prompt": "High-quality realistic horizontal natural foods banner on a white/light-neutral studio surface, with clean ingredient photography arranged low and spacious. No product packaging, no stacked packshots, no text, no logo, no branding, no labels, no watermark, no badges, and no health claims.",
+      "generation_source": "Built-in image generation, then locally cropped and normalized to 1600x600 PNG."
+    }
+  }
+}
