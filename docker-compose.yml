@@ -1,8 +1,6 @@
 services:
   api:
     image: ghcr.io/saleor/saleor:3.23
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
     ports:
       - ${API_PORT:-8000}:8000
     restart: unless-stopped
@@ -12,6 +10,7 @@ services:
     tty: true
     depends_on:
       - db
+      - cache
       - jaeger
     volumes:
       # shared volume between worker and api for media
@@ -21,6 +20,16 @@ services:
     env_file:
       - common.env
       - backend.env
+
+  cache:
+    image: valkey/valkey:8.1-alpine
+    ports:
+      - ${CACHE_PORT:-6379}:6379
+    restart: unless-stopped
+    networks:
+      - saleor-backend-tier
+    volumes:
+      - saleor-cache:/data
 
   db:
     image: library/postgres:15-alpine
@@ -38,8 +47,6 @@ services:
 
   worker:
     image: ghcr.io/saleor/saleor:3.23
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
     command: celery -A saleor --app=saleor.celeryconf:app worker --loglevel=info -B
     restart: unless-stopped
     networks:
@@ -48,6 +55,7 @@ services:
       - common.env
       - backend.env
     depends_on:
+      - cache
       - mailpit
     volumes:
       # shared volume between worker and api for media
@@ -77,6 +85,8 @@ services:
 
 volumes:
   saleor-db:
+    driver: local
+  saleor-cache:
     driver: local
   saleor-media:
 
