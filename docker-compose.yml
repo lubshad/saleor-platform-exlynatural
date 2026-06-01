@@ -42,7 +42,7 @@ services:
   storefront:
     image: lubshad/storefront-exlynatural:latest
     ports:
-      - ${DASHBOARD_PORT:-3000}:3000
+      - ${STOREFRONT_PORT:-3000}:3000
     restart: unless-stopped
 
   db:
