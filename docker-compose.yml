@@ -34,7 +34,7 @@ services:
   dashboard:
     image: lubshad/saleor-dashboard-exlynatural:latest
     ports:
-      - ${DASHBOARD_PORT:-9000}:9000
+      - ${DASHBOARD_PORT:-9000}:80
     restart: unless-stopped
     env_file:
       - backend.env
