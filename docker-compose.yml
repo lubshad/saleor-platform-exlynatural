@@ -32,7 +32,7 @@ services:
       - saleor-cache:/data
 
   dashboard:
-    image: lubshad/saleor-dashboard-exlynatural:latest-arm64
+    image: lubshad/saleor-dashboard-exlynatural:latest
     ports:
       - ${DASHBOARD_PORT:-9000}:9000
     restart: unless-stopped
